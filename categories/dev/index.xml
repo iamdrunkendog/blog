@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Drunken Dog&#39;s Lounge bar</title>
-    <link>https://blog.drunken.dog/</link>
-    <description>Recent content on Drunken Dog&#39;s Lounge bar</description>
+    <title>DEV on Drunken Dog&#39;s Lounge bar</title>
+    <link>https://blog.drunken.dog/categories/dev/</link>
+    <description>Recent content in DEV on Drunken Dog&#39;s Lounge bar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 02 Jun 2021 22:06:19 +0900</lastBuildDate><atom:link href="https://blog.drunken.dog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jun 2021 22:06:19 +0900</lastBuildDate><atom:link href="https://blog.drunken.dog/categories/dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github Pages Custom Domain</title>
       <link>https://blog.drunken.dog/dev/github-pages-custom-domain/</link>
