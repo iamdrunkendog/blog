@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bash on Drunken Dog&#39;s Lounge bar</title>
+    <link>https://blog.drunken.dog/tags/bash/</link>
+    <description>Recent content in bash on Drunken Dog&#39;s Lounge bar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Fri, 04 Jun 2021 02:46:00 +0900</lastBuildDate><atom:link href="https://blog.drunken.dog/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows Git Bash에서 tree 명령어 사용하기</title>
+      <link>https://blog.drunken.dog/2021/06/use-tree-on-windows-git-bash/</link>
+      <pubDate>Fri, 04 Jun 2021 02:46:00 +0900</pubDate>
+      
+      <guid>https://blog.drunken.dog/2021/06/use-tree-on-windows-git-bash/</guid>
+      <description>1. tree.exe 다운로드 아래의 링크에서 tree를 다운받는다.
+http://gnuwin32.sourceforge.net/packages/tree.htm
+나의 경우 Binaries zip파일을 다운받아 압축을 풀어 /bin/tree.exe를 사용했다.
+2. git bash가 설치된 디렉토리에 tree.exe 복사 git bash가 설치되어있는 경로의 usr\bin\ 디렉토리에 tree.exe를 복사한다
+기본 설치 경로는 C:\Program Files\Git\usr\bin\ 이다.
+3. 완료 및 테스트 $ tree . |-- README.md |-- __init__.py |-- config.json `-- notion2hugo.py 0 directories, 4 files 해당 디렉토리에서 tree 명령어를 입력하면 문제 없이 동작한다.
+참고 사이트 https://beemiel.tistory.com/7</description>
+    </item>
+    
+  </channel>
+</rss>
