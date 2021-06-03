@@ -8,13 +8,13 @@
     <language>ko-kr</language>
     <lastBuildDate>Thu, 03 Jun 2021 19:32:00 +0900</lastBuildDate><atom:link href="https://blog.drunken.dog/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[notion-to-hugo] 노션으로 작성한 글을 Hugo 포스트로 변환해주는 프로젝트</title>
-      <link>https://blog.drunken.dog/2021/06/notion-to-hugo-0-plan/</link>
+      <title>[Notion2Hugo] 노션으로 작성한 글을 Hugo 포스트로 변환해주는 프로젝트 계획</title>
+      <link>https://blog.drunken.dog/2021/06/notion2hugo-0-plan/</link>
       <pubDate>Thu, 03 Jun 2021 19:32:00 +0900</pubDate>
       
-      <guid>https://blog.drunken.dog/2021/06/notion-to-hugo-0-plan/</guid>
-      <description>이 포스트는 Notion으로 작성한 게시글을 정적 사이트 생성기(SSG, Static Site Generator) Hugo의 Post로 컨버팅해주는 notion-to-hugo의 개발 일지입니다.
-프로젝트의 진행 상황, 관련 정보는 notion-to-hugo의 GitHub Repo에서 확인하실 수 있습니다.
+      <guid>https://blog.drunken.dog/2021/06/notion2hugo-0-plan/</guid>
+      <description>이 포스트는 Notion으로 작성한 게시글을 정적 사이트 생성기(SSG, Static Site Generator) Hugo의 Post로 컨버팅해주는 Notion2Hugo의 개발 일지입니다.
+프로젝트의 진행 상황, 관련 정보는 Notion2Hugo의 GitHub Repo에서 확인하실 수 있습니다.
  노션으로 작성한 글을 더 쉽게 배포할 수 없을까? 노션으로 작성한 페이지는 마크다운(Markdown, .md) 형태로 쉽게 내려받을 수 있다. Jekyll, Hexo, Hugo 등 인기 많은 SSG서비스들이 기본적으로 마크다운 기반이기도 하고, 뼈대 굵은 카카오의 티스토리도 마크다운 형식을 지원하기 시작했다. 내가 노션무새가 될 정도로 노션 자체는 정말 강력한 서비스이지만 개인적으로 웹 사이트나 블로그를 대체하기에는 부족하다고 판단했다.</description>
     </item>
     

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.drunken.dog/2021/06/notion-to-hugo-0-plan/</loc>
+    <loc>https://blog.drunken.dog/2021/06/notion2hugo-0-plan/</loc>
     <lastmod>2021-06-03T19:32:00+09:00</lastmod>
   </url><url>
     <loc>https://blog.drunken.dog/categories/</loc>
@@ -17,10 +17,10 @@
     <loc>https://blog.drunken.dog/tags/notion/</loc>
     <lastmod>2021-06-03T19:32:00+09:00</lastmod>
   </url><url>
-    <loc>https://blog.drunken.dog/tags/notion-to-hugo/</loc>
+    <loc>https://blog.drunken.dog/tags/notion2hugo/</loc>
     <lastmod>2021-06-03T19:32:00+09:00</lastmod>
   </url><url>
-    <loc>https://blog.drunken.dog/categories/notion-to-hugo/</loc>
+    <loc>https://blog.drunken.dog/categories/notion2hugo/</loc>
     <lastmod>2021-06-03T19:32:00+09:00</lastmod>
   </url><url>
     <loc>https://blog.drunken.dog/post/</loc>
